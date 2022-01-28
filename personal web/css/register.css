@@ -1,0 +1,25 @@
+.fonti{
+	
+	margin: 20px;
+}
+.font{
+	margin: 20px;
+}
+.ski{
+    padding-left: 32px;
+    margin-bottom: 40px;
+}
+#hin{
+    padding-left: 40px;
+}
+
+
+@media only screen and (max-width: 768px) {
+
+    /* .card{
+        width: 250px!important;
+    } */
+    /* .nav{
+        width: 200!important;
+    } */
+}

@@ -1,0 +1,27 @@
+#koso{
+    padding-left: 80px;
+    
+}
+.fonti{
+	
+	margin: 20px;
+}
+.font{
+	margin: 20px;
+}
+.sil{
+    text-align: center;
+}
+.card{
+    float: right;
+}
+
+@media only screen and (max-width: 768px) {
+
+   /* .card{
+       width: 220px!important;
+       float: left;
+   } */
+  
+   
+}

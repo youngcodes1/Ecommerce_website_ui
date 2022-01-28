@@ -1,0 +1,73 @@
+.fonti{
+	
+	margin: 20px;
+}
+.font{
+	margin: 20px;
+}
+.card{
+	margin-top: 120px;
+}
+.card h5{
+	margin: 35px;
+	font-family: serif;
+}
+.card h5:hover{
+	color: yellowgreen;
+}
+.ski h3{
+	margin-top: 150px;
+	text-align: center;
+	font-family: serif;
+	font-weight: bolder;
+	
+}
+#carousel{
+	margin-top: 150px;
+}
+
+.lo p{
+	text-align: center;
+}
+.lo h5{
+	text-align: center;
+}
+.lo p:hover{
+	color:yellowgreen;
+}
+.to p:hover{
+	color: yellowgreen;
+	
+}
+.to p{
+	text-align: center;
+}
+.no h3{
+	margin-top: 80px;
+	font-family: serif;
+	font-weight: bolder;
+}
+.momo p{
+	font-family: serif;
+	font-weight: bolder;
+}
+.kilo h3{
+	margin-top: 80px;
+	font-family: serif;
+	font-weight: bolder;
+}
+.acc h3{
+	margin-top: 80px;
+	font-family: serif;
+	font-weight: bolder;
+}
+.vi h3{
+	margin-top: 80px;
+	font-family: serif;
+	font-weight: bolder;
+
+
+}
+.footer{
+	margin-top: 50px;
+}

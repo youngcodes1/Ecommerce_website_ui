@@ -1,0 +1,92 @@
+.nav-link{
+  font-weight:bolder!important;
+  font-family: serif;
+  margin:30px!important;
+
+  
+}
+.dropdown-item{
+	font-family:serif;
+	font-weight: bolder;
+}
+.dropdown-menu{
+	background:silver;
+}
+#mob {
+	margin-top:200px;
+	font-family:serif;
+	font-weight:bolder;
+	font-size:40px;
+}
+.lele{
+	margin-top:50px;
+}
+.kiki{
+	margin-top: 50px;
+}
+#mobs-info h3{
+	font-family:serif;
+	font-weight:bolder;
+}
+#mobs-info p{
+	font-family:serif;
+	color:#808080;
+	font-size:17px;
+}
+#footer{
+	margin-top: 50px;
+}
+#footer h5{
+	font-family:serif;
+	font-weight:bolder;
+}
+#footer li{
+	font-family:serif;
+	font-size: 18px;
+}
+#footer p{
+	font-family:serif;
+	font-size:18px;
+}
+#mob-info h3{
+	font-family:serif;
+	font-weight:bolder;
+	margin-bottom: 30px;
+}
+#footer i:hover{
+	color:blue;
+
+}
+#footer a:hover{
+	color:blue;
+
+}
+.footer-copyright{
+	font-family: serif;
+	font-size:18px;
+}
+
+
+@media only screen and (max-width: 1024px) {
+	.mobs{
+		height:200px;
+		margin-top: 30px;
+
+	}
+	.app{
+		height:200px;
+		margin-top: 30px;
+	}
+	.brand{
+		width:40%;
+	}
+
+
+
+	@media only screen and (max-width: 768px) {
+	#navb{
+		background-color:#808080;
+	}
+	.nav-link{
+		margin:15px!important;
+	}
